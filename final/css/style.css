@@ -144,16 +144,12 @@ a:active {
 }
 
 .tips {
-  float: right;
-}
-
-.resorts {
   float: left;
 }
 
-
-
-
+.resorts {
+  float: right;
+}
 
 /* Float Clearfix ------------------ */
 
@@ -162,3 +158,6 @@ a:active {
   display: table;
   clear: both;
 }
+
+
+
